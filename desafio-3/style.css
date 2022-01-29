@@ -1,6 +1,8 @@
-        p {
+        .paragrafo1{  background-color:   #F5F5F5;
             Margin: 40px;
-            padding: 20px;
-            
+            padding: 20px; 
         } 
-        
+        .paragrafo2{  background-color:  #F0CCE2;
+            Margin: 40px;
+            padding: 20px;  
+        } 

@@ -1,21 +1,39 @@
 .titulo{
-    margin: 15px;
+    margin: 0px;
 }
-.produto-moda
-     {
+.produto-moda 
+     { 
         background-color: #BB86FC;
+        padding: 50px;
         color: #fff
 
      }
 .produto-valor
     {
         background-color: #424250;
+        padding: 55px;
         color: #fff;
     }
 .produto-casa
     {
         background-color: #00C4B4;
+        padding: 55px;
         color: #fff;
     }
 
-  
+.produto-moda th{
+    Padding: 8px;
+    }
+
+.produto-casa th{
+        Padding: 8px;
+        }
+.produto-valor td{
+        Padding: 8px;
+        }
+table{
+        Margin-left: 450px;
+        }
+.sub-titulo{
+    Margin-left: 450px;
+}
